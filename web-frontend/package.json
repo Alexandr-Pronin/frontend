@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Web-Frontend for DataBuddy",
   "main": "index.js",
-  "repository": "https://github.com/florianfreier/SE1-Datenbrille",
+  "repository": "https://github.com/Alexandr-Pronin/se_datenbrille_alex",
   "author": "Team Brille",
   "license": "MIT",
   "private": true,

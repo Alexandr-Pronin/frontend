@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Web-Frontend for DataBuddy",
   "main": "index.js",
-  "repository": "https://github.com/Alexandr-Pronin/se_datenbrille_alex",
+  "repository": "https://github.com/Alexandr-Pronin/frontend",
   "author": "Team Brille",
   "license": "MIT",
   "private": true,
@@ -54,6 +54,7 @@
     "start": "react-scripts start",
     "test": "jest",
     "check-types": "tsc"
+   
   },
   "jest": {
     "transform": {
@@ -78,4 +79,5 @@
       "last 1 safari version"
     ]
   }
+  
 }

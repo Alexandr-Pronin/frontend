@@ -44,7 +44,7 @@ export class FloatingButton extends React.Component<{
             className="action-button-bottom-right"
             onClick={this.props.onclick && this.props.onclick}
           >
-            {this.props.children}
+     
           </Fab>
         </Zoom>
       </div>
